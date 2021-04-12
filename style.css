@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right, red , yellow);
+}
+h1{
+    font-size: 70px;
+    font-family: calibri;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 40px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    color: white;
+}
